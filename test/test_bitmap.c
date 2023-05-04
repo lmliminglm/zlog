@@ -46,5 +46,6 @@ int main(int argc, char** argv)
 
 	zlog_fini();
 	
+	printf("hello world\n");
 	return 0;
 }
