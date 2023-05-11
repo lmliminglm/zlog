@@ -14,6 +14,20 @@
 
 #include "zlog.h"
 
+
+/**
+ * @brief 函数示例
+ * 
+ */
+*/
+
+/**
+ * @brief 
+ * 
+ * @param [in] argc 
+ * @param [in] argv 
+ * @return int 
+ */
 int main(int argc, char** argv)
 {
 	int rc;
